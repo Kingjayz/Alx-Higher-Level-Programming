@@ -1,10 +1,10 @@
 #include "hash_tables.h"
 
 /**
- * hash_table_print - Print whole the hash table.
- * @ht: Hash table.
+ * hash_table_print - Print whole the hash table
+ * @ht: Hash table
  *
- * Return: Void.
+ * Return: Void
  */
 void hash_table_print(const hash_table_t *ht)
 {

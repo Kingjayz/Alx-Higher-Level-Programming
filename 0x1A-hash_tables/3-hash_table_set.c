@@ -1,12 +1,12 @@
 #include "hash_tables.h"
 
 /**
- * hash_table_set - Set a value in the hash table.
- * @ht: Hash table.
- * @key: Key to be indexed.
- * @value: Value to set in the hash table.
+ * hash_table_set - Set a value in the hash table
+ * @ht: Hash table
+ * @key: Key to be indexed
+ * @value: Value to set in the hash table
  *
- * Return: 1 if works, 0 if doesn't.
+ * Return: 1 if works, 0 if doesn't
  */
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 {
